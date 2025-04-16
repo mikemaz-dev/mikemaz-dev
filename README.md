@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm a Frontend Developer 👋</h1>
+<h1 align="center">Hello, I'm a Frontend Developer 👋</h1>
 <p align="center">
   I build responsive, user-friendly interfaces with React, Next.js and TailwindCSS.<br />
   Passionate about performance, clean code, and beautiful UI/UX.
