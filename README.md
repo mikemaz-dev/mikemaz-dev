@@ -34,16 +34,6 @@
 
 ---
 
-## ⚡ Fun Stuff
-
-<!-- Add some fun or aesthetic dev GIFs -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="400"/>
-</p>
-
----
-
 ## 📫 Let's Connect
 
 <p align="center">
