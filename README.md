@@ -1,16 +1,59 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm a Frontend Developer 👋</h1>
+<p align="center">
+  I build responsive, user-friendly interfaces with React, Next.js and TailwindCSS.<br />
+  Passionate about performance, clean code, and beautiful UI/UX.
+</p>
 
-<!--
-**mikemaz-dev/mikemaz-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔧 Developer: I build responsive, user-friendly interfaces with React, Next.js and TailwindCSS.  
+- 🎨 UI/UX Focused: I love crafting clean, intuitive experiences and pixel-perfect layouts.  
+- ⚡ Performance: I care about speed, optimization, and accessibility across all devices.  
+- 📚 Always Learning: I keep up with new technologies and constantly strive to improve my skills.  
+
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,sass,tailwind,framer" /><br />
+</p>
+
+---
+
+## 📜 Certificates
+
+- 🏆 **Complete course on Javascript + React – from scratch to results**  
+  _Apr 30, 2024 - Jun 9, 2024_
+- 🏆 **Mastering Next.js 13 with TypeScript**  
+  _Jul 3, 2024 - Jul 16, 2024_
+- 🏆 **Advanced Front-end Intensive**  
+  _Nov 27, 2024 - Dec 30, 2024_
+
+---
+
+## ⚡ Fun Stuff
+
+<!-- Add some fun or aesthetic dev GIFs -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="400"/>
+</p>
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" /></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000?logo=vercel&style=for-the-badge" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+%2F+Next.js+%2F+TailwindCSS+%2F+TypeScript;Always+learning+new+things&center=true&width=1000&height=50" />
+</p>
