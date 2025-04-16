@@ -38,6 +38,7 @@
 
 <p align="center">
   <a href="mazurkevich.mikhail.14@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" /></a>
+  <a href="https://www.instagram.com/mikemazdev/"><img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&style=for-the-badge" /></a>
 </p>
 
 ---
