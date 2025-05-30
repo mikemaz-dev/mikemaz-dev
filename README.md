@@ -1,8 +1,8 @@
 <h1 align="center">Hello, I'm a Frontend Developer 👋</h1>
 <p>
-  Front-End Developer with over a year of experience building clean and scalable single-page applications using TypeScript, React/Next.js, and TailwindCSS. I enjoy bringing features from idea to production, setting up CI/CD pipelines, and integrating tools to track performance and user behavior. Writing clean code and crafting smooth user experiences are things I really care about.
+  Front-End Developer with over a year of experience building clean and scalable single-page applications using TypeScript</b>, React/Next.js</b>, and TailwindCSS</b>. I enjoy bringing features from idea to production, setting up CI/CD</b> pipelines</b>, and integrating tools to track performance and user behavior. Writing clean code and crafting smooth user experiences are things I really care about.
 
-  Comfortable working in collaborative environments and experienced with Agile methodologies like Scrum. I enjoy being part of a team where ideas flow, feedback is welcome, and everyone works together to ship great products. I value good communication, clear processes, and a shared passion for continuous improvement.
+  Comfortable working in collaborative environments and experienced with Agil</b>e methodologies like Scrum</b>. I enjoy being part of a team where ideas flow, feedback is welcome, and everyone works together to ship great products. I value good communication, clear processes, and a shared passion for continuous improvement.
 </p>
 
 ---
