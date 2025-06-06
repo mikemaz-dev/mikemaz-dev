@@ -99,10 +99,8 @@
 
 ### 🎯 Current Focus
 
-- 🔥 Building modern web applications with **Next.js 14** and **TypeScript**
+- 🔥 Building modern web applications with **Next.js** and **TypeScript**
 - 🎨 Mastering advanced **Framer Motion** animations
-- 📱 Exploring **React Native** for mobile development
-- 🚀 Contributing to open-source projects
 - 📚 Continuously learning new technologies and best practices
 
 ---
