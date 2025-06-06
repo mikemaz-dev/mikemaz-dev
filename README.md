@@ -146,5 +146,3 @@
   <strong>⭐ Enjoyed my profile? Star this repository and check out my projects! ⭐</strong><br/>
   <sub>Your support means a lot and helps me stay motivated!</sub>
 </p>
-> **⭐ Enjoyed my profile? Star this repository and check out my projects! ⭐**  
-> Your support means a lot and helps me stay motivated!
