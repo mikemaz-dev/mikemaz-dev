@@ -14,6 +14,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-[![](https://visitcount.itsvg.in/api?id=mikemaz-dev&icon=9&color=8)](https://visitcount.itsvg.in)
