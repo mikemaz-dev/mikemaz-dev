@@ -1,148 +1,19 @@
-<h1 align="center">Hey, I'm Mikhail Mazurkevich ✨</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React%2FNext.js%2FTS%2FTailwind;Clean+UI%2C+Fast+UX%2C+Modern+Web;18+Years+Old+%7C+Self-Taught+Developer&center=true&width=1000&height=50" />
-</p>
+# 💫 About Me:
+🧠 Passionate about crafting beautiful, scalable and user-friendly interfaces.<br>🚀 Turning ideas into modern, fast and responsive applications.<br>🧩 Pixel-perfect UI / clean and maintainable code lover.<br>💬 Fluent in Git, team collaboration, Agile/Scrum & CI/CD practices.<br>🛠️ Learning & improving everyday — striving to be one of the best.<br>🎯 18 years old, self-taught developer with a passion for frontend excellence.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-</p>
 
-<p align="center">
-  <a href="mailto:mazurkevich.mikhail.14@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" /></a>
-  <a href="https://www.instagram.com/mikemazdev/"><img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&style=for-the-badge" /></a>
-  <a href="https://mazurkevichmikhail.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-blue?logo=vercel&style=for-the-badge" /></a>
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mikemazdev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mazurkevich.mikhail.14@gmail.com) 
 
----
+# 💻 Tech Stack:
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mikemaz-dev&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mikemaz-dev&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mikemaz-dev&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### 👨‍💻 About Me
-
-> 🧠 Passionate about crafting beautiful, scalable and user-friendly interfaces.  
-> 🚀 Turning ideas into modern, fast and responsive applications.  
-> 🧩 Pixel-perfect UI / clean and maintainable code lover.  
-> 💬 Fluent in Git, team collaboration, Agile/Scrum & CI/CD practices.  
-> 🛠️ Learning & improving everyday — striving to be one of the best.  
-> 🎯 18 years old, self-taught developer with a passion for frontend excellence.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-
-### 🚀 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,sass,framer,git,vite,figma,vercel" /><br />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="300" />
-</p>
-
----
-
-### 🎨 Featured Projects
-
-<div align="center">
-
-#### 🦸‍♂️ **Marvel Explorer**
-*Interactive Marvel characters and comics explorer*
-- **Tech Stack:** React, React Router, Formik, Yup, SASS, React Scripts
-- **Features:** Character browsing, comic exploration, form validation, routing
-- **Highlights:** SSR-like pre-rendering with react-snap, elegant UI design
-- **Live Demo:** [marvel-react-three.vercel.app](https://marvel-react-three.vercel.app/)
-- **Repository:** [github.com/mikemaz-dev/marvelReact](https://github.com/mikemaz-dev/marvelReact)
-
-#### 🏦 **JustBank**
-*Modern banking application interface*
-- **Tech Stack:** Next.js, TypeScript, Tailwind CSS
-- **Features:** Banking dashboard, transaction management, responsive design
-- **Highlights:** Clean financial UI, secure user experience
-- **Repository:** [github.com/mikemaz-dev/justbank](https://github.com/mikemaz-dev/justbank)
-
-#### 🍕 **Next Pizza**
-*Full-stack pizza ordering platform*
-- **Tech Stack:** Next.js, TypeScript, Tailwind CSS
-- **Features:** Menu browsing, order management, modern e-commerce flow
-- **Highlights:** Full-stack implementation, optimized performance
-- **Repository:** [github.com/mikemaz-dev/next-pizza](https://github.com/mikemaz-dev/next-pizza)
-
-</div>
-
-<p align="center">
-  <strong>⭐ If you like what you see, please consider starring these projects! ⭐</strong><br/>
-  Your stars motivate me to keep building and improving!
-</p>
-
----
-
-### 🏆 Certificates & Education
-
-- **JavaScript + React - from scratch to results** 
-  <sub>Udemy | Apr 30, 2024 - Jun 9, 2024</sub>
-
-- **Mastering Next.js 13 with TypeScript**  
-  <sub>Self-study | Jul 3, 2024 - Jul 16, 2024</sub>
-
-- **Advanced Front-End Intensive**  
-  <sub>RedGroup | Nov 27, 2024 - Dec 30, 2024</sub>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mikemaz-dev&show_icons=true&theme=tokyonight&border_radius=10" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikemaz-dev&layout=compact&theme=tokyonight&border_radius=10" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikemaz-dev&theme=tokyonight&border_radius=10" />
-</p>
-
----
-
-### 🎯 Current Focus
-
-- 🔥 Building modern web applications with **Next.js** and **TypeScript**
-- 🎨 Mastering advanced **Framer Motion** animations
-- 📚 Continuously learning new technologies and best practices
-
----
-
-### 💡 Fun Facts
-
-- 🎯 Aiming to become a top frontend developer before turning 19.
-- 🎨 Love crafting stunning UI and seamless UX.
-- 💻 Self-taught through passion, projects and consistency.
-- 🧪 Favorite stack: **TypeScript + Next.js + Tailwind + Framer Motion**
-- 🌟 Believe in pixel-perfect designs and clean, maintainable code
-- 🚀 Always excited about the latest web technologies and trends
-
----
-
-### 📈 What I Bring to the Table
-
-- ✅ **Modern Development:** Latest React/Next.js patterns and best practices
-- ✅ **Performance Focus:** Optimized applications with excellent Core Web Vitals
-- ✅ **Responsive Design:** Mobile-first approach with seamless cross-device experience
-- ✅ **Clean Code:** Maintainable, scalable, and well-documented codebases
-- ✅ **User Experience:** Intuitive interfaces with smooth animations and interactions
-- ✅ **Team Collaboration:** Git workflows, code reviews, and agile methodologies
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mikemaz-dev&theme=gruvbox&margin-w=10&margin-h=10" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" width="300" />
-</p>
-
-<p align="center">
-  <strong>💼 Open to exciting frontend opportunities and collaborations!</strong><br/>
-  ✨ Let's build something awesome together ✨
-</p>
-
----
-
-<p align="center">
-  <strong>⭐ Enjoyed my profile? Star this repository and check out my projects! ⭐</strong><br/>
-  <sub>Your support means a lot and helps me stay motivated!</sub>
-</p>
+[![](https://visitcount.itsvg.in/api?id=mikemaz-dev&icon=9&color=8)](https://visitcount.itsvg.in)
