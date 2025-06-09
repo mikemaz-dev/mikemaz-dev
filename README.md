@@ -68,6 +68,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-[![Hits](https://u8views.com/api/v1/github/profiles/120780551/views/day-week-month-total-count.svg)](https://u8views.com/github/mikemaz-dev)
