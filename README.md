@@ -1,9 +1,21 @@
 # 💫 About Me:
-🧠 Passionate about crafting beautiful, scalable and user-friendly interfaces.<br>🚀 Turning ideas into modern, fast and responsive applications.<br>🧩 Pixel-perfect UI / clean and maintainable code lover.<br>💬 Fluent in Git, team collaboration, Agile/Scrum & CI/CD practices.<br>🛠️ Learning & improving everyday — striving to be one of the best.<br>🎯 18 years old, self-taught developer with a passion for frontend excellence.
+I am a **dedicated Frontend Developer** with over **1 year of hands-on experience** building **clean, scalable single-page applications (SPAs)** using **TypeScript, React.js, Next.js, and TailwindCSS**. I excel at **turning ideas into production-ready features**, including setting up **CI/CD pipelines** and integrating tools for **performance monitoring** and **user behavior tracking**. My focus lies in delivering **pixel-perfect, responsive user interfaces** with **maintainable, high-quality code** that ensures an excellent user experience across all devices.
+
+I am actively seeking **part-time or full-time remote internship opportunities in Poland**, eager to apply my skills on innovative projects, grow professionally, and gain valuable real-world experience as a motivated and reliable developer.
+
+# 🚀 What I Do
+
+- **Developer:** I craft sleek, responsive interfaces with **React.js, Next.js, and TailwindCSS**.  
+- **UI/UX Focused:** I value **clarity, usability, and design precision** in every interface I build.  
+- **Optimization Focused:** I help websites improve in **SEO, speed, and accessibility** to deliver outstanding performance.  
+- **Always Learning:** I stay updated with the latest tools and continuously push my craft forward.
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mikemazdev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mazurkevich.mikhail.14@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mikemazdev) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mazurkevich.mikhail.14@gmail.com) 
+<br/>
+[![CV](https://img.shields.io/badge/Resume-Download-1DA1F2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/11qNyJWInZzPoRYBVNZRHwMsS1AxiuXii/view?usp=drive_link)
 
 # 💻 Tech Stack:
 <table>
