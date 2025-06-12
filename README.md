@@ -15,7 +15,7 @@ I am actively seeking **part-time or full-time remote internship opportunities i
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mikemazdev) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mazurkevich.mikhail.14@gmail.com) 
 <br/>
-[![CV](https://img.shields.io/badge/Resume-Download-1DA1F2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/11qNyJWInZzPoRYBVNZRHwMsS1AxiuXii/view?usp=drive_link)
+[![CV](https://img.shields.io/badge/Resume-Open-1DA1F2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/11qNyJWInZzPoRYBVNZRHwMsS1AxiuXii/view?usp=drive_link)
 
 # 💻 Tech Stack:
 <table>
