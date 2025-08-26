@@ -1,7 +1,5 @@
 # 💫 About Me:
-I am a **dedicated Frontend Developer** with over **1 year of hands-on experience** building **clean, scalable single-page applications (SPAs)** using **TypeScript, React.js, Next.js, and TailwindCSS**. I excel at **turning ideas into production-ready features**, including integrating tools for **performance monitoring** and **user behavior tracking**. My focus lies in delivering **pixel-perfect, responsive user interfaces** with **maintainable, high-quality code** that ensures an excellent user experience across all devices.
-
-I am actively seeking **part-time remote internship opportunities**, eager to apply my skills on innovative projects, grow professionally, and gain valuable real-world experience as a motivated and reliable developer.
+Frontend developer, passionate about creating user-friendly, beautiful interfaces. I am proficient in JavaScript, TypeScript and React, and have experience working with Next.js, Tailwind CSS and Supabase. I regularly work on my own projects, I like to understand new technologies and strive to write clean, understandable code. I'm looking for a team where I can grow as a developer and benefit the product.
 
 # 🚀 What I Do
 
