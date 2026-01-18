@@ -1,19 +1,16 @@
 # 💫 About Me:
-Frontend developer, passionate about creating user-friendly, beautiful interfaces. I am proficient in JavaScript, TypeScript and React, and have experience working with Next.js, Tailwind CSS and Supabase. I regularly work on my own projects, I like to understand new technologies and strive to write clean, understandable code. I'm looking for a team where I can grow as a developer and benefit the product.
+Frontend developer, passionate about creating user-friendly, beautiful interfaces. I am proficient in JavaScript, TypeScript and React, and have experience working with Next.js, Tailwind CSS and Supabase. I regularly work on my own projects, I like to understand new technologies and strive to write clean, understandable code.
 
-# 🚀 What I Do
+I care about writing maintainable code, smooth performance, and thoughtful UX - not just pretty layouts. In my projects, I focus on:
+ - Clean, type-safe code that’s easy to update
+ - Fast loading and smooth interactions
+ - Logic behind the UI (forms, APIs, auth, state)
+ - Subtle animations that actually help users
+ - Building interfaces that feel intuitive
 
-- **Developer:** I craft sleek, responsive interfaces with **React.js, Next.js, and TailwindCSS**.  
-- **UI/UX Focused:** I value **clarity, usability, and design precision** in every interface I build.  
-- **Optimization Focused:** I help websites improve in **SEO, speed, and accessibility** to deliver outstanding performance.  
-- **Always Learning:** I stay updated with the latest tools and continuously push my craft forward.
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mikemazdev) 
+## 🌐 Contact me:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mazurkevich.mikhail.14@gmail.com) 
-<br/>
-[![CV](https://img.shields.io/badge/Resume-Open-1DA1F2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/11qNyJWInZzPoRYBVNZRHwMsS1AxiuXii/view?usp=drive_link)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%23E4405F.svg?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mike-mazurkevich/) 
 
 # 💻 Tech Stack:
 <table>
@@ -73,7 +70,6 @@ Frontend developer, passionate about creating user-friendly, beautiful interface
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mikemaz-dev&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mikemaz-dev&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mikemaz-dev&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
