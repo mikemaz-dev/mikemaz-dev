@@ -1,0 +1,41 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
+  <title id="title">Mikhail Mazurkevich — Frontend Developer</title>
+  <desc id="description">Frontend developer working with React, Next.js, TypeScript, and Tilda.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#090E1D"/>
+      <stop offset="0.52" stop-color="#101936"/>
+      <stop offset="1" stop-color="#1A2650"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="142" y1="66" x2="561" y2="236" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#AEB8FF"/>
+      <stop offset="1" stop-color="#7583D8"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#8490CF" stroke-opacity="0.09"/>
+    </pattern>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="34"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" rx="26" fill="url(#background)"/>
+  <rect width="1200" height="320" rx="26" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="318" rx="25" stroke="#6070B6" stroke-opacity="0.32" stroke-width="2"/>
+
+  <circle cx="1070" cy="48" r="156" fill="#5865A6" fill-opacity="0.25" filter="url(#glow)"/>
+  <circle cx="837" cy="297" r="116" fill="#344489" fill-opacity="0.22" filter="url(#glow)"/>
+
+  <rect x="495" y="36" width="210" height="34" rx="17" fill="#1D294F" stroke="#6270B4" stroke-opacity="0.72"/>
+  <circle cx="516" cy="53" r="5" fill="#72D6A2"/>
+  <text x="536" y="58" fill="#DDE3FF" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.1">OPEN TO PROJECTS</text>
+
+  <text x="600" y="137" text-anchor="middle" fill="#F7F8FF" font-family="Inter, Arial, sans-serif" font-size="49" font-weight="760" letter-spacing="-1.5">Mikhail Mazurkevich</text>
+  <text x="600" y="181" text-anchor="middle" fill="url(#accent)" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="650">Frontend Developer</text>
+  <text x="600" y="222" text-anchor="middle" fill="#BDC6E7" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="500">React · Next.js · TypeScript · Tilda</text>
+  <text x="600" y="266" text-anchor="middle" fill="#8F9AC3" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500">Grodno, Belarus  ·  Remote collaboration</text>
+
+  <path d="M420 289H780" stroke="#6F7DC0" stroke-opacity="0.36"/>
+  <circle cx="600" cy="289" r="3" fill="#8D9AE0"/>
+</svg>
